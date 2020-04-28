@@ -2,7 +2,7 @@
 
 ** Version 1.0.0 **
 
-Project 2020 for Programming and Scripting
+Project 2020H1 for Programming and Scripting
 
 ## Analysis.py ##
 
@@ -86,6 +86,15 @@ Summary Statistics:
 9. Class Distribution: 33.3% for each of 3 classes.
 
 ## References ##
+
+Didática Tech Inteligência Artificial & Data Science
+https://didatica.tech/
+
+Real Python
+https://realpython.com/python-histograms/
+
+Stack Overflow
+https://stackoverflow.com/
 
 Software Freedom Conservancy. Git.
 https://git-scm.com/
